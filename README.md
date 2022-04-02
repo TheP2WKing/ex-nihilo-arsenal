@@ -10,8 +10,11 @@ Does anyone remember the good old 1.7.10 days when we all first played Skyblock,
 
 ## Dependencies
 Required
+
 Ex Nihilo: Sequentia by NovaMachina [Link Curse]
+
 CoFH Core by TeamCoFH [Link Curse]
+
 Redstone Arsenal by KingLemming [Link Curse]
 Optional
 Ex Compressum by BlayTheNinth [Link Curse]
