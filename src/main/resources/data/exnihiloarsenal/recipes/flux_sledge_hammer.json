@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " X ",
+      " #X",
+      "#  "
+    ],
+    "key": {
+      "#": {
+        "item": "redstone_arsenal:flux_obsidian_rod"
+      },
+      "X": {
+        "item": "redstone_arsenal:flux_ingot"
+      }
+    },
+    "result": {
+      "item": "exnihiloarsenal:flux_sledge_hammer"
+    },
+    "conditions": [{
+        "type": "exnihiloarsenal:flux_sledge_hammer_recipe"
+      }]
+  }

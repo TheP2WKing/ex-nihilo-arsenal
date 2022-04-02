@@ -1,0 +1,6 @@
+{
+  "parent": "exnihiloarsenal:item/flux_crook",
+  "textures": {
+    "layer0": "exnihiloarsenal:item/flux_crook_charged"
+  }
+}

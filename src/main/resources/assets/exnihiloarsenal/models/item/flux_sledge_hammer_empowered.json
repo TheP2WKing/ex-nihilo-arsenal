@@ -1,0 +1,6 @@
+{
+  "parent": "exnihiloarsenal:item/flux_sledge_hammer",
+  "textures": {
+    "layer0": "exnihiloarsenal:item/flux_sledge_hammer_empowered"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "exnihiloarsenal:item/flux_crook"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "charged": 1.0
+        },
+        "model": "exnihiloarsenal:item/flux_crook_charged"
+      },
+      {
+        "predicate": {
+          "empowered": 1.0
+        },
+        "model": "exnihiloarsenal:item/flux_crook_empowered"
+      }
+    ]
+  }

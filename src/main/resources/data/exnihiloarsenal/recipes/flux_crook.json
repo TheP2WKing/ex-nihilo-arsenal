@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XY",
+      " #",
+      " #"
+    ],
+    "key": {
+      "#": {
+        "item": "redstone_arsenal:flux_obsidian_rod"
+      },
+      "X": {
+        "item": "redstone_arsenal:flux_ingot"
+      },
+      "Y": {
+        "item": "redstone_arsenal:flux_gem"
+      }
+    },
+    "result": {
+      "item": "exnihiloarsenal:flux_crook"
+    },
+    "conditions": [{
+        "type": "exnihiloarsenal:flux_crook_recipe"
+      }]
+  }

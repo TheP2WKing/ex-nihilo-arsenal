@@ -1,0 +1,53 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="exnihiloarsenal"
+version="1.16.5-1.1.0"
+displayName="Ex Nihilo: Arsenal"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-arsenal"
+logoFile="exnihiloarsenal.png"
+credits = "TeamCoFH (CoFH Core), KingLemming (Redstone Arsenal), NovaMachina (Ex Nihilo Sequentia) and LoveHoly (Ex Astris) for the idea"
+authors="TheP2WKing"
+itemIcon="exnihiloarsenal:flux_sledge_hammer"
+description='''
+The long-awaited addon for Redstone Arsenal and Ex Nihilo that everyone may or may not have been waiting for.
+
+Does anyone remember the good old 1.7.10 days when we all first played Skyblock, not me. But what I do remember was a mod called Ex Astris that added some nifty gadgets to the original Ex Nihilo, most notably the Flux Hammer and the Flux Crook. The mod hasn't been updated over the years and I thought it was time to bring some power back to Ex Nihilo.
+'''
+[[dependencies.exnihiloarsenal]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.20,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.exnihiloarsenal]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.exnihiloarsenal]]
+    modId = "cofh_core"
+    mandatory = true
+    versionRange = "[1.4.2,]"
+    ordering = "AFTER"
+    side = "BOTH"
+[[dependencies.exnihiloarsenal]]
+    modId = "redstone_arsenal"
+    mandatory = true
+    versionRange = "[0.8,]"
+    ordering = "AFTER"
+    side = "BOTH"
+[[dependencies.exnihiloarsenal]]
+    modId = "exnihilosequentia"
+    mandatory = true
+    versionRange = "[1.16-20220205,]"
+    ordering = "AFTER"
+    side = "BOTH"
+[[dependencies.exnihiloarsenal]]
+    modId = "excompressum"
+    mandatory = false
+    versionRange="[1.16.5-4.0.5,)"
+    ordering = "AFTER"
+    side = "BOTH"
