@@ -20,6 +20,7 @@ Does anyone remember the good old 1.7.10 days when we all first played Skyblock,
 **Configured** by MrCrayfish [[Link Curse]](https://www.curseforge.com/minecraft/mc-mods/configured) <br />
 
 ## Table of Contents
+----------
 **Flux-Infused Sledge-Hammer** <br />
 *(a powered and faster variant of the normal Ex Nihilo Hammer)* <br />
 ![name](https://cdn.discordapp.com/attachments/808773932722683914/958797702479642644/hammer.png) <br />
