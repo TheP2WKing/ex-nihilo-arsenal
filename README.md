@@ -9,11 +9,12 @@ The long-awaited addon for Redstone Arsenal and Ex Nihilo that everyone may or m
 Does anyone remember the good old 1.7.10 days when we all first played Skyblock, not me. But what I do remember was a mod called Ex Astris that added some nifty gadgets to the original Ex Nihilo, most notably the Flux Hammer and the Flux Crook. The mod hasn't been updated over the years and I thought it was time to bring some power back to Ex Nihilo.
 
 ## Dependencies
-Required
-Ex Nihilo: Sequentia by NovaMachina [Link Curse]
-CoFH Core by TeamCoFH [Link Curse]
-Redstone Arsenal by KingLemming [Link Curse]
-Optional
-Ex Compressum by BlayTheNinth [Link Curse]
-Just Enough Items by mezz [Link Curse]
-Configured by MrCrayfish [Link Curse]
+***Required*** <br />
+Ex Nihilo: Sequentia by NovaMachina [Link Curse] <br />
+CoFH Core by TeamCoFH [Link Curse] <br />
+Redstone Arsenal by KingLemming [Link Curse] <br />
+
+***Optional*** <br />
+Ex Compressum by BlayTheNinth [Link Curse] <br />
+Just Enough Items by mezz [Link Curse] <br />
+Configured by MrCrayfish [Link Curse] <br />
