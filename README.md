@@ -10,11 +10,11 @@ Does anyone remember the good old 1.7.10 days when we all first played Skyblock,
 
 ## Dependencies
 ***Required*** <br />
-Ex Nihilo: Sequentia by NovaMachina [Link Curse] <br />
-CoFH Core by TeamCoFH [Link Curse] <br />
-Redstone Arsenal by KingLemming [Link Curse] <br />
+Ex Nihilo: Sequentia by NovaMachina [[Link Curse]](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia) <br />
+CoFH Core by TeamCoFH [[Link Curse]](https://www.curseforge.com/minecraft/mc-mods/cofh-core) <br />
+Redstone Arsenal by KingLemming [[Link Curse]](https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal) <br />
 
 ***Optional*** <br />
-Ex Compressum by BlayTheNinth [Link Curse] <br />
-Just Enough Items by mezz [Link Curse] <br />
-Configured by MrCrayfish [Link Curse] <br />
+Ex Compressum by BlayTheNinth [[Link Curse]](https://www.curseforge.com/minecraft/mc-mods/ex-compressum) <br />
+Just Enough Items by mezz [[Link Curse]](https://www.curseforge.com/minecraft/mc-mods/jei) <br />
+Configured by MrCrayfish [[Link Curse]](https://www.curseforge.com/minecraft/mc-mods/configured) <br />
