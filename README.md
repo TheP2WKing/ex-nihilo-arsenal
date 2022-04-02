@@ -5,7 +5,5 @@
 # Ex Nihilo: Arsenal
 The long-awaited addon for Redstone Arsenal and Ex Nihilo that everyone may or may not have been waiting for.
 
-Made with ❤️
-
 ## About
 Does anyone remember the good old 1.7.10 days when we all first played Skyblock, not me. But what I do remember was a mod called Ex Astris that added some nifty gadgets to the original Ex Nihilo, most notably the Flux Hammer and the Flux Crook. The mod hasn't been updated over the years and I thought it was time to bring some power back to Ex Nihilo.
